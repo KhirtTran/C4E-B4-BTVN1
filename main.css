@@ -1,0 +1,40 @@
+#textbox1{
+    color: maroon;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: Tahoma;
+}
+#texth1{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Tahoma;     
+}
+.texth3{
+    color: blue;
+}
+.redtext{
+    color: red;
+}
+.center-par{
+    margin: 0 auto;
+    width: 430px;
+}
+.box1{
+    width: 430px;
+    background-color: lightpink;
+    margin-bottom: 10px;
+    border-width: 2px 0px;
+    border-style: double;
+    border-color: maroon;
+    padding: 10px;
+}
+.box2{
+    width: 350px;
+    background-color: lightblue;
+    margin: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: blue;
+    padding: 10px;
+    font-family: Tahoma;
+}
